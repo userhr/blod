@@ -1,2 +1,2 @@
-# blod
+# blog
 A simple blogging site
